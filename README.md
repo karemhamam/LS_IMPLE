@@ -68,8 +68,8 @@ The main file for handling command-line arguments and invoking the appropriate o
 #### option_l.c: 
 Handles the long-format listing (-l) and other related options.
 
-### option_l.h: 
-Header file for the functions used in option_l.c.
+### sort.c: 
+file that have the implementation of all sorting functions.
 
 ## Future Improvements
 The following features are planned for future releases:
