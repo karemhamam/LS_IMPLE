@@ -57,7 +57,7 @@ Compile the source code using the following command:
 gcc -o myls myls.c option_l.c -sort.c
 
 ## video 
-here is short video of myls->().
+here is a short video of myls->().
 
 ## Development
 The project is modular, with separate files handling different options. The following files are crucial to the functioning of myls:
