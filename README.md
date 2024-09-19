@@ -54,7 +54,7 @@ To compile the myls utility:
 Clone the repository or download the source code->(https://github.com/karemhamam/LS_IMPLE/tree/master)
 
 Compile the source code using the following command:
-gcc -o myls myls.c option_l.c -sort.c
+`gcc -o myls myls.c option_l.c -sort.c`
 
 ## video 
 here is a short video of myls->().
