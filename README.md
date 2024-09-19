@@ -65,7 +65,7 @@ The project is modular, with separate files handling different options. The foll
 ### myls.c:
 The main file for handling command-line arguments and invoking the appropriate options.
 
-#### option_l.c: 
+### option_l.c: 
 Handles the long-format listing (-l) and other related options.
 
 ### sort.c: 
