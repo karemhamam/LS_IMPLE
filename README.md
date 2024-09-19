@@ -9,21 +9,39 @@
 
 - **Long Format Listing (`-l`)**: Displays detailed information about files such as permissions, number of hard links, owner, group, size, and modification time.
 
+ ![Screenshot from 2024-09-19 20-27-24](https://github.com/user-attachments/assets/187e070e-59d6-43c7-847a-bafe4abb9b49)
+
 - **Sort by Access Time (`-u`)**: Sorts files by their last access time.
+
+  ![Screenshot from 2024-09-19 20-28-04](https://github.com/user-attachments/assets/785f262b-cb03-46dc-99fb-a57849f09e10)
 
 - **Sort by Modification Time (`-t`)**: Sorts files by their last modification time.
 
+  ![Screenshot from 2024-09-19 20-27-54](https://github.com/user-attachments/assets/7f3b4b08-e58a-4ec5-ab68-02d634d0986a)
+
 - **Display Inode Numbers (`-i`)**: Displays the inode number of each file.
+
+  ![Screenshot from 2024-09-19 20-29-37](https://github.com/user-attachments/assets/113f37e9-7050-4b0c-9f81-d0d13c690b10)
 
 - **Show Hidden Files (`-a`)**: Includes hidden files (files that start with a dot `.`).
 
+![Screenshot from 2024-09-19 20-28-29](https://github.com/user-attachments/assets/e80f4152-892e-4db6-ac9f-ab7e216503a7)
+
 - **Directory Listing (`-d`)**: Displays directory names, not their contents.
+
+  ![Screenshot from 2024-09-19 20-29-04](https://github.com/user-attachments/assets/8eca9eb5-74c3-4153-a652-c53bdba0fc2f)
 
 - **Disable Sorting (`-f`)**: Disables sorting and lists files as they appear in the directory.
 
+![Screenshot from 2024-09-19 20-28-45](https://github.com/user-attachments/assets/cb3cab15-d349-4ae1-8f32-5a6aab0cd966)
+
 - **Color Output (`--color`)**: Displays directories, symbolic links, and executables in different colors by default.
 
+  ![WhatsApp Image 2024-09-19 at 20 38 58_0b710c14](https://github.com/user-attachments/assets/b7b50b51-3f88-4ae9-8805-eeac78ad2eb6)
+
 - **Single-Column Listing (`-1`)**: Forces output to display one file per line.
+
+  ![Screenshot from 2024-09-19 20-29-59](https://github.com/user-attachments/assets/793309c6-7363-4218-be20-4af09dd90048)
 
 ## Command Line Options
 
